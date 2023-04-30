@@ -92,7 +92,7 @@ namespace Task8_StringToIntegerAtoi
                             exit = true;
                             break;
                         }
-                        //s2 += s[i];
+                        s2 += s[i];
                         break;
                     case '0':
                         zero = true;
@@ -120,7 +120,7 @@ namespace Task8_StringToIntegerAtoi
                     break;
             }
 
-            //s2 = s2.TrimStart();
+            s2 = s2.TrimStart();
 
             if (s2.Length > 12)
             {
