@@ -1,4 +1,4 @@
-# Task8_StringToIntegerAtoi
+# Task-8_StringToIntegerAtoi
 https://leetcode.com/problems/string-to-integer-atoi/description/
 
 8. String to Integer (atoi)
